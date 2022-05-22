@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.Dark{
+  color: #A0AECD;
+  background-color: #051622;
+}
+.light{
+  color: #051622;
+  background-color: #A0AECD;
+}
