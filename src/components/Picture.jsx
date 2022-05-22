@@ -15,7 +15,7 @@ export const Picture =()=>{
 
              <img className="profile-pic" src={img} alt="profile" />   
             <div className="details">
-            <h3>Hello! I'm <span className={!theme?"color-d":"color"}>Manesh Suresh</span></h3>
+            <h3>Hello!, I'm <span className={!theme?"color-d":"color"}>Manesh Suresh</span></h3>
             <p className={!theme?"sky-d" : 'sky'}> Learner | Full Stack Web Developer</p>
             <a className={!theme?"resume-d":"resume"} href="https://drive.google.com/file/d/1jwR0Jc87WPbLCBzTwRJYEkcJxbSmM5jU/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a><br></br>
            <br></br><br></br>
