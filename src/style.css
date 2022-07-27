@@ -254,6 +254,9 @@ background-color:rgba(5, 5, 5, 0.273);
     height:270px;
     padding:10px;
 }
+.one{
+    width:580px
+}
 .project{
 
 margin-left: 170px;
@@ -293,10 +296,10 @@ margin-left: 170px;
 .btn-pro-d:hover{
     background-color:#A0AECD
 }
-#mar1,#mar5{
+#mar1,#mar5,#mar7{
     margin-left:80px;
 }
-#mar2,#mar6{
+#mar2,#mar6,#mar8{
     margin-left:10px;
 }
 #mar3{

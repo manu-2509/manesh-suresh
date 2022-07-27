@@ -1,6 +1,7 @@
 import img1  from "../outnet1.jpeg";
 import img2  from "../west.jpeg";
 import img3  from "../croma.jpeg";
+import img4 from "../lici.jpeg"
 
 import "../style.css"
 import { Zoom } from "react-awesome-reveal";
@@ -16,6 +17,19 @@ export const Projects=()=>{
             <Zoom>
             <h1 className={!theme?"color-d":"color"}>Projects</h1>
             <div className="project">
+
+          <div className={!theme?"dark-div":"pro-div"}>
+            <img className="pro-img one" src={img4} alt="project1"/>
+            <div className="pro-ddiv">
+            <h3 className="project-head">Licious Clone</h3>
+            <p>Licious is a e-commerce website for buying fish, meat, eggs, mutton, spreads, ready to cook etc.</p>
+            <p>This was an individual and personal project done by me</p>
+            <p><span><b>Tech Stack:</b></span> HTML | CSS | JavaScript | Express | MongoDB | React | Node.js</p><hr></hr>
+            <a id="mar7" className={!theme?"btn-pro-d":"btn-pro"} href="https://github.com/kumarshivam01/OutNet-Clone" alt="github" target="_blank" rel="noopener noreferrer">Code</a>
+            <a id="mar8" className={!theme?"btn-pro-d":"btn-pro"} href="https://aesthetic-griffin-7124ce.netlify.app/" alt="deployed" target="_blank" rel="noopener noreferrer" >Live</a>
+            </div>
+          
+      </div>           
 
        <div className={!theme?"dark-div":"pro-div"}>
             <img className="pro-img" src={img1} alt="project1" />
