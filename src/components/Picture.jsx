@@ -17,7 +17,7 @@ export const Picture =()=>{
             <div className="details">
             <h3>Hello!, I'm <span className={!theme?"color-d":"color"}>Manesh Suresh</span></h3>
             <p className={!theme?"sky-d" : 'sky'}> Learner | Full Stack Web Developer</p>
-            <a className={!theme?"resume-d":"resume"} href="https://drive.google.com/file/d/1jwR0Jc87WPbLCBzTwRJYEkcJxbSmM5jU/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a><br></br>
+            <a className={!theme?"resume-d":"resume"} href="https://drive.google.com/file/d/1AjN0QJTm6jivriNhvkNR3AtVV765PlSQ/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a><br></br>
            <br></br><br></br>
                 <a className={!theme?"nodec-d":"nodec"} href="https://www.linkedin.com/in/manesh-suresh-2046391a6/" target="_blank" rel="noopener noreferrer"><BsLinkedin></BsLinkedin></a> 
                 <a className={!theme?"nodec-d":"nodec"} href="https://github.com/manu-2509" target="_blank" rel="noopener noreferrer"><BsGithub></BsGithub></a>
