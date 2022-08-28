@@ -25,7 +25,7 @@ export const Projects=()=>{
             <p>Licious is a e-commerce website for buying fish, meat, eggs, mutton, spreads, ready to cook etc.</p>
             <p>This was an individual and personal project done by me</p>
             <p><span><b>Tech Stack:</b></span> HTML | CSS | JavaScript | Express | MongoDB | React | Node.js</p><hr></hr>
-            <a id="mar7" className={!theme?"btn-pro-d":"btn-pro"} href="https://github.com/kumarshivam01/OutNet-Clone" alt="github" target="_blank" rel="noopener noreferrer">Code</a>
+            <a id="mar7" className={!theme?"btn-pro-d":"btn-pro"} href="https://github.com/manu-2509/RM-project-licious-clone" alt="github" target="_blank" rel="noopener noreferrer">Code</a>
             <a id="mar8" className={!theme?"btn-pro-d":"btn-pro"} href="https://aesthetic-griffin-7124ce.netlify.app/" alt="deployed" target="_blank" rel="noopener noreferrer" >Live</a>
             </div>
           
